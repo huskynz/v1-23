@@ -1,3 +1,1 @@
-Peter's Website
-
-https://peter.husky.nz
+HuskyNZ's new site to move off wordpress
